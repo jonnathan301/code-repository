@@ -1,0 +1,19 @@
+{
+  "name": "code-repository",
+  "version": "1.0.0",
+  "description": "simple code repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnathan301/code-repository.git"
+  },
+  "author": "jonnathanbaquero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnathan301/code-repository/issues"
+  },
+  "homepage": "https://github.com/jonnathan301/code-repository#readme"
+}
