@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jonnathan301/code-repository/issues"
   },
-  "homepage": "https://github.com/jonnathan301/code-repository#readme"
+  "homepage": "https://github.com/jonnathan301/code-repository#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
